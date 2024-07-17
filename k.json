@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "40 GM",
+      "price": "20",
+      "image": "https://chhappaiyamasala.netlify.app//img/Chhappaiya%2040gm.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+      {
+      "id": 2,
+      "title": "350 GM ",
+      "price": "80",
+      "image": "https://chhappaiyamasala.netlify.app//img/Chhappaiya%20350gm.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    },
+    {
+        "id": 3,
+        "title": "1 KG",
+        "price": "210",
+        "image": "https://chhappaiyamasala.netlify.app//img/Chhappaiya%201kg.jpg",
+        "rating": {
+          "rate": 3.9,
+          "count": 120
+        }
+      },
+    {
+      "id": 4,
+      "title": "20 KG",
+      "price": "2800",
+      "image": "https://chhappaiyamasala.netlify.app//img/Chhappaiya%2020kg.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 120
+      }
+    }
+   
+]
